@@ -1,6 +1,6 @@
 # jpa01-graceenelson
 
-Deployed at: http://jpa01-graceenelson.dokku-15.cs.ucsb.edu
+Deployed at: [https://jpa01-graceenelson.dokku-15.cs.ucsb.edu](https://jpa01-graceenelson.dokku-15.cs.ucsb.edu)
 
 # About this repo
 
